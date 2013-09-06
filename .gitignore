@@ -1,2 +1,6 @@
 # Dependencies managed by npm
 /node_modules/*
+
+# Non-git-related hidden files
+.*
+!.git*
