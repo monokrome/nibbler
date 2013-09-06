@@ -1,0 +1,14 @@
+{
+  "name": "nibbler",
+  "version": "0.0.0",
+  "description": "#catjugglers IRC bot",
+  "repository": {
+    "type": "git",
+    "url": "github.com/monokrome/nibbler"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monokrome/nibbler/issues"
+  }
+}
