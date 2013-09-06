@@ -10,5 +10,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/monokrome/nibbler/issues"
+  },
+  "dependencies": {
+    "hubot": "~2.6.3"
   }
 }
