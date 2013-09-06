@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "hubot": "~2.6.3",
-    "hubot-irc": "~0.1.19"
+    "hubot-irc": "~0.1.19",
+    "coffee-script": "~1.6.3"
   }
 }
