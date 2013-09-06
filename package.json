@@ -12,6 +12,7 @@
     "url": "https://github.com/monokrome/nibbler/issues"
   },
   "dependencies": {
-    "hubot": "~2.6.3"
+    "hubot": "~2.6.3",
+    "hubot-irc": "~0.1.19"
   }
 }
