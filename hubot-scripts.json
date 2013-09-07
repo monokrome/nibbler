@@ -8,5 +8,6 @@
   "advice.coffee",
   "redis-brain.coffee",
   "catfacts.coffee",
-  "wikipedia.coffee"
+  "wikipedia.coffee",
+  "cleverbot"
 ]

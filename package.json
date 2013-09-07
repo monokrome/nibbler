@@ -19,6 +19,7 @@
     "soupselect": "~0.2.0",
     "htmlparser": "~1.7.6",
     "underscore": "~1.5.1",
-    "underscore.string": "~2.3.3"
+    "underscore.string": "~2.3.3",
+    "cleverbot-node": "~0.1.2"
   }
 }
