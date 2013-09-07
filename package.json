@@ -20,6 +20,7 @@
     "htmlparser": "~1.7.6",
     "underscore": "~1.5.1",
     "underscore.string": "~2.3.3",
-    "cleverbot-node": "~0.1.2"
+    "cleverbot-node": "~0.1.2",
+    "sandbox": "~0.8.3"
   }
 }
