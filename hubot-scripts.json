@@ -1,4 +1,5 @@
 [
+  "9gag.coffee",
   "abstract.coffee",
   "redis-brain.coffee",
   "catfacts.coffee"
