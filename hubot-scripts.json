@@ -18,5 +18,8 @@
   "defprogramming.coffee",
   "google.coffee",
   "beerme.coffee",
-  "archer.coffee"
+  "archer.coffee",
+  "ambush.coffee",
+  "alot.coffee",
+  "auto-stache.coffee"
 ]
