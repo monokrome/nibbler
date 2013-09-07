@@ -1,6 +1,7 @@
 [
   "9gag.coffee",
   "abstract.coffee",
+  "achewood.coffee",
   "redis-brain.coffee",
   "catfacts.coffee"
 ]
