@@ -7,5 +7,6 @@
   "adult.coffee",
   "advice.coffee",
   "redis-brain.coffee",
-  "catfacts.coffee"
+  "catfacts.coffee",
+  "wikipedia.coffee"
 ]
