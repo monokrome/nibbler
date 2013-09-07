@@ -12,5 +12,6 @@
   "cleverbot.coffee",
   "javascript-sandbox.coffee",
   "sigh.coffee",
-  "bitly.coffee"
+  "bitly.coffee",
+  "devexcuse.coffee"
 ]
