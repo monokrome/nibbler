@@ -10,5 +10,6 @@
   "catfacts.coffee",
   "wikipedia.coffee",
   "cleverbot",
-  "javascript-sandbox"
+  "javascript-sandbox",
+  "sigh.coffee"
 ]
