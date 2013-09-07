@@ -4,6 +4,7 @@
   "achewood.coffee",
   "achievement_unlocked.coffee",
   "ackbar.coffee",
+  "adult.coffee",
   "redis-brain.coffee",
   "catfacts.coffee"
 ]
