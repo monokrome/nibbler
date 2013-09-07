@@ -57,6 +57,5 @@
   "redis-brain.coffee",
   "sigh.coffee",
   "wikipedia.coffee",
-  "youtube-info.coffee",
-  "goo_gl.coffee"
+  "youtube-info.coffee"
 ]
