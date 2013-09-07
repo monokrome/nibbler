@@ -2,6 +2,7 @@
   "9gag.coffee",
   "abstract.coffee",
   "achewood.coffee",
+  "achievement_unlocked.coffee",
   "redis-brain.coffee",
   "catfacts.coffee"
 ]
