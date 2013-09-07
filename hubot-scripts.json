@@ -3,6 +3,7 @@
   "abstract.coffee",
   "achewood.coffee",
   "achievement_unlocked.coffee",
+  "ackbar.coffee",
   "redis-brain.coffee",
   "catfacts.coffee"
 ]
