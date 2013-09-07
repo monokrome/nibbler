@@ -57,5 +57,6 @@
   "grumpycat.coffee",
   "haters.coffee",
   "hello.coffee",
-  "news.coffee"
+  "news.coffee",
+  "youtube-info.coffee"
 ]
