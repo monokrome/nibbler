@@ -9,5 +9,6 @@
   "redis-brain.coffee",
   "catfacts.coffee",
   "wikipedia.coffee",
-  "cleverbot"
+  "cleverbot",
+  "javascript-sandbox"
 ]
