@@ -1,0 +1,4 @@
+nibbler
+=======
+
+Our IRC bot.
