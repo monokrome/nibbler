@@ -1,1 +1,1 @@
-bot: hubot -a irc -n nibbler
+app: hubot -a irc -n nibbler
