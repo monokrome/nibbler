@@ -12,22 +12,22 @@
     "url": "https://github.com/monokrome/nibbler/issues"
   },
   "dependencies": {
-    "hubot": "~2.6.3",
-    "hubot-irc": "~0.1.19",
-    "coffee-script": "~1.6.3",
-    "hubot-scripts": "~2.5.6",
+    "hubot": "~3.1.1",
+    "hubot-irc": "~0.4.0",
+    "coffeescript": "~2.3.1",
+    "hubot-scripts": "~2.17.2",
     "soupselect": "~0.2.0",
     "htmlparser": "~1.7.6",
-    "underscore": "~1.5.1",
-    "underscore.string": "~2.3.3",
-    "cleverbot-node": "~0.1.2",
+    "underscore": "~1.9.1",
+    "underscore.string": "~3.3.4",
+    "cleverbot-node": "~0.3.11",
     "sandbox": "~0.8.3",
-    "cheerio": "~0.12.2",
+    "cheerio": "~1.0.0-rc.2",
     "scraper": "0.0.9",
-    "jsdom": "~0.8.4",
+    "jsdom": "~12.0.0",
     "tumblrbot": "~0.1.0",
-    "jquery": "~1.8.3",
-    "flip": "~0.1.0",
-    "googleapis": "~0.4.3"
+    "jquery": "~3.3.1",
+    "flip": "~1.0.0",
+    "googleapis": "~33.0.0"
   }
 }
